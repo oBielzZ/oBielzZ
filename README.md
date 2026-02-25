@@ -30,6 +30,6 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
         />
     </a>
     <a href="https://github.com/oBielzZ">
-      <img src="https://komarev.com/ghpvc/?username=oBielzZ&label=VISITORS&color=7A1FA2&labelColor=7A1FA2&style=for-the-badge&logo=eye" alt="Visualizações" />
+      <img src="https://ext-badges.feregrino.dev/github/oBielzZ?label=VISITORS&color=7A1FA2&style=for-the-badge&logo=eye" alt="Visualizações" />
    </a>
 </p>
