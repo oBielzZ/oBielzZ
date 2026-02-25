@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="img/banner.gif" />
+  <img src="banner.gif" />
 </p>
 
 **`Software Engineering`**
