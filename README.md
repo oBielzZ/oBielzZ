@@ -1,10 +1,9 @@
 <div align="center">
-  <samp>
-    <br>
+  <h1>
     <font color="#00FF00">
-      Oi! Sou o <b>Gabriel</b>
+      Oi! Sou o Gabriel
     </font>
-  </samp>
+  </h1>
 </div>
 
 <p align="center">
