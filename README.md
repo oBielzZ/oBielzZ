@@ -1,10 +1,11 @@
-<samp>
-      <br>
-      Oi! Sou o <b>Gabriel Lázaro</b>
+<p align="center">
+  <samp>
+    <h1>Oi! Sou o <b>Gabriel Lázaro</b></h1>
   </samp>
+</p>
 
 <p align="center">
-  <img src="img/banner.gif" />
+  <img src="banner.gif" />
 </p>
 
 <p align="center">
@@ -110,26 +111,7 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
 
 <p>
   
-  <div align="center">
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmqzz&theme=zenburn"/>
- </div>
- 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielmqzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmqzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  
 
   
 </p>
