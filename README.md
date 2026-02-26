@@ -1,3 +1,11 @@
+<div align="center">
+  <samp>
+    <br>
+    <span style="color:#00FF00;">
+      Oi! Sou o <b>Gabriel</b>
+    </span>
+  </samp>
+</div>
 
 <p align="center">
   <img src="banner.gif" />
