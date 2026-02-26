@@ -1,9 +1,9 @@
 <div align="center">
   <samp>
     <br>
-    <span style="color:#00FF00;">
+    <font color="#00FF00">
       Oi! Sou o <b>Gabriel</b>
-    </span>
+    </font>
   </samp>
 </div>
 
