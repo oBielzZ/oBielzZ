@@ -1,10 +1,4 @@
-<div align="center">
-  <h1>
-    <font color="#00FF00">
-      Oi! Sou o Gabriel
-    </font>
-  </h1>
-</div>
+
 
 <p align="center">
   <img src="banner.gif" />
